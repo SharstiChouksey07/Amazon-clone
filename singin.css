@@ -1,0 +1,50 @@
+.login{
+     background-color:#faedcd; 
+    height: 450px; 
+    width: 400px;
+    margin: 150px 0px 90px 450px;
+    border-radius: 9px;
+    
+}
+body{
+    background-image: url("wallpaper.jpg");
+    background-size: cover;
+    text-align: center;
+    position: fixed;
+}
+h1{
+    font-weight: bolder;
+}
+input{
+      height: 30px; 
+      width: 200px;
+    border-radius: 1px solid black;
+    border-radius: 2px;
+}
+span{
+    color:#007185;
+    text-decoration: underline;
+}
+span:hover{
+    color:red;
+}
+button{
+    width: 60%;
+    height: 30px;
+    font-weight: bolder;
+   background-color:#00b4d8; 
+   border: 1px solid #000000;  
+    border-radius: 5px;
+}
+#google{
+    background-color: white;
+}
+img{ 
+    background-size: cover;
+    height: 15px;
+    width: 14px;
+    margin-right:200px; 
+    margin-top: 10px;
+    position: relative;
+    top: 26px;
+}
